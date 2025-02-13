@@ -1,0 +1,1 @@
+/*This program demonstrates how to modify a variable using a pointer */ #include <stdio.h> int main() { int x = 10; //Declare an integer variable x int *ptr = &x; //Declare a pointer to an integer and assign it the address of x *ptr = 20; //Modify the value of x through the pointer printf("%d\n", x); //Prints the modified value of x return 0; }
