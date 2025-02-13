@@ -1,0 +1,1 @@
+This repository contains a simple C program demonstrating pointer manipulation. The program showcases how to modify a variable's value indirectly using a pointer.  While not necessarily a 'bug', it highlights a potential source of confusion for novice C programmers. The solution file provides a slightly modified version with added comments to clarify the process.
